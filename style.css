@@ -157,3 +157,19 @@ footer a {
     color: #ff5722;
     text-decoration: none;
 }
+
+.blog-link{
+  background-color: #007bff;
+  border-radius:5px;
+  padding:10px 40px;
+  text-decoration:none;
+  color:white
+}
+
+.blog{
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 40px;
+  border-radius: 5px;
+  text-align: center;
+}
